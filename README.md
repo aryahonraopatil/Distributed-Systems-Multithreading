@@ -1,4 +1,4 @@
-# Distributed_Systems_Multithreading
+# Distributed Systems Multithreading
 A Multithreading program to calculate the sum of integers
 
 The program takes two command-line input parameters: M and fname where M is an integer and fname is the pathname (absolute) to the input data file.
