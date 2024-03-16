@@ -1,5 +1,5 @@
 //aos project1 - multithreading application
-//Arya Honraopatil (XI11893)
+//Arya Honraopatil 
 
 package main
 
